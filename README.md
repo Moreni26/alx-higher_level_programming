@@ -1,1 +1,1 @@
-higher level programming language
+JavaScript - Web jQuery
